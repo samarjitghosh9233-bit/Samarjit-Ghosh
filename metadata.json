@@ -1,0 +1,6 @@
+{
+  "name": "Brother Mart",
+  "description": "Fast, fresh grocery delivery app with Customer, Delivery Partner, and Admin panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
